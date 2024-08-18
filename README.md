@@ -1,0 +1,1 @@
+A website created for a fictitious chain of upscale Chinese restaurants, featuring a fully functional user interface that employs the fundemental elements of graphic design and search engine optimization (SEO) in order to produce an optimal user experience (UX).   

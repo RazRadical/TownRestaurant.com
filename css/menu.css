@@ -1,0 +1,64 @@
+@font-face {
+    font-family: "Majesti-Banner";
+    src: url(Font/Majesti-Banner-Medium.otf);
+}
+
+wrapper {
+    width: 90%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+}
+
+li a {
+    color: #fff; /*this is the font color and it is white */
+    padding: 30px 60px; /*this is the padding around the text which creates
+    that box */
+    background-color: rgb(138, 140, 143); /* this is the background color of the
+    box around the text */
+}
+
+h3 {
+    font-family: Majesti-Banner;
+    font-style: italic;
+    font-size: 30px;
+    color: rgb(65, 57, 61);
+    margin-top: 0;
+    text-align: left;
+}
+
+h2 {
+    font-family: Majesti-Banner;
+    font-size: 30px;
+    color:rgb(65, 57, 61)
+}
+
+nav {
+    float: center;
+    padding: 30px;
+    margin-top: 30px;
+    display: block;
+}
+
+p {
+    font-family: Majesti-Banner;
+    font-size: 20px;
+    color: rgb(65, 57, 61);
+    text-align: center;
+    line-height: 150%;
+    width: 900px;
+    margin: 0 auto;
+}
+
+footer {
+    background-color: #000000; /* this is a black color */
+    color: #ffffff; /* this is a white color */
+    margin: 0px;
+}

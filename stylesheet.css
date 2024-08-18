@@ -1,0 +1,207 @@
+@font-face {
+    font-family: "Majesti-Banner";
+    src: url(css/Font/Majesti-Banner-Bold.otf);
+}
+
+wrapper {
+    width: 90%;
+}
+
+.logo {
+    background-color: rgb(65, 57, 61);
+    margin-bottom: -20px;
+}
+
+.logo h3 {
+    font-family: Majesti-Banner;
+    font-style: italic;
+    font-size: 30px;
+    color: #ffffff;
+    margin-top: 0;
+    text-align: left;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline-block;
+} 
+
+li a {
+    font-family: Majesti-Banner;
+    color: #fff; /*this is the font color and it is white */
+    padding: 30px 60px; /*this is the padding around the text which creates
+    that box */
+    background-color: rgb(138, 140, 143); /* this is the background color of the
+    box around the text */
+}
+
+a:hover {
+    background: rgb(215, 228, 194);
+}
+
+h2 {
+    font-family: Majesti-Banner;
+    font-size: 30px;
+    color:rgb(65, 57, 61)
+}
+
+nav {
+    padding: 30px;
+    margin-top: 30px;
+    display: block;
+}
+
+.mission {
+    background-color: rgb(190, 30, 45);
+    margin-bottom: -8px;
+}
+
+.mission p {
+    color: #ffffff;
+}
+
+.mission h2 {
+    text-align: center;
+    color: #ffffff;
+}
+
+body {
+    background-image: url(images/Flaming_Wok_Background.jpg);
+    background-size: 1632px 1568px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.featured {
+    position: absolute;
+    padding: 40px;
+}
+
+.secondary1 {
+    position: relative;
+    left: 700px;
+    padding: 40px;
+}
+
+.secondary1 p {
+    text-align: left;
+}
+
+
+.secondary2 {
+    position: relative;
+    left: 700px;
+    padding: 40px;
+}
+
+.secondary2 p {
+    text-align: left;
+}
+
+td {
+    font-family: Majesti-Banner;
+    font-size: 20px;
+    color: rgb(65, 57, 61);
+}
+
+.appetizers {
+    position: absolute;
+    border: 3px solid rgb(240, 78, 35);
+    background-color: rgb(213, 162, 141);
+}
+
+.entrees {
+    position: absolute;
+    margin-top: 40px;
+    border: 3px solid rgb(240, 78, 35);
+    background-color: rgb(213, 162, 141);
+}
+
+.desserts {
+    position: absolute;
+    margin-top: 130px;
+    border: 3px solid rgb(240, 78, 35);
+    background-color: rgb(213, 162, 141);
+}
+
+.secondary1ImageMenu {
+    position: relative;
+    left: 1000px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+}
+
+.featuredImageMenu {
+    position: relative;
+    left: 1000px;
+    margin-bottom: 40px;
+}
+
+.dessertImageMenu {
+    position: relative;
+    left: 1000px;
+    margin-bottom: 40px;    
+}
+
+p {
+    font-family: Majesti-Banner;
+    font-size: 20px;
+    color: rgb(65, 57, 61);
+    text-align: center;
+    line-height: 150%;
+    width: 900px;
+    margin: 0 auto;
+}
+
+.visionHistory {
+    background-image: url(images/Temple_Background.jpg);
+    background-size: 1792px 1008px;
+    background-repeat: no-repeat;
+    margin-bottom: -17px;
+}
+
+.contact {
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(240, 78, 35);
+    padding: 10px;
+    background-color: rgb(213, 162, 141);
+    margin-top: 30px;
+}
+
+.businessHours {
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    width: 50%;
+    border: 3px solid rgb(240, 78, 35);
+    padding: 10px;
+    background-color: rgb(213, 162, 141);
+}
+
+.businessHours p {
+    text-align: left;
+}
+
+footer {
+    background-color: rgb(190, 30, 45); /* this is a red color */
+    color: #ffffff; /* this is a white color */
+    margin: 0px;
+    text-align: left;
+}
+
+footer p {
+    color: #ffffff;
+}
+
+address {
+    font-family: Majesti-Banner;
+    font-size: 20px;
+    line-height: 150%;
+    width: 900px;
+}
